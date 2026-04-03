@@ -22,8 +22,7 @@ This makes manual transcription necessary, which is slow, expensive, and error-p
 
 ## Proposed Solution
 
-![Pipeline](pipeline.png)
-
+![Pipeline](Audio%20to%20text%20conversion%20pipeline.png)
 Audio Input → Preprocessing → Speech-to-Text → Post-processing → Clean Text Output
 
 
